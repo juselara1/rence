@@ -11,7 +11,7 @@ readme = "README.md"
 keywords = ["repl", "science"]
 requires-python = ">3.8"
 dependencies = [
-    "textual"
+    "textual[dev]"
 ]
 
 
